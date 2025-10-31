@@ -1,0 +1,13 @@
+package.xml
+setup.py
+../../build/metafly_tf_pub/metafly_tf_pub.egg-info/PKG-INFO
+../../build/metafly_tf_pub/metafly_tf_pub.egg-info/SOURCES.txt
+../../build/metafly_tf_pub/metafly_tf_pub.egg-info/dependency_links.txt
+../../build/metafly_tf_pub/metafly_tf_pub.egg-info/entry_points.txt
+../../build/metafly_tf_pub/metafly_tf_pub.egg-info/requires.txt
+../../build/metafly_tf_pub/metafly_tf_pub.egg-info/top_level.txt
+../../build/metafly_tf_pub/metafly_tf_pub.egg-info/zip-safe
+metafly_tf_pub/__init__.py
+metafly_tf_pub/metafly_tf_pub.py
+resource/metafly_tf_pub
+resource/mocap_data.csv

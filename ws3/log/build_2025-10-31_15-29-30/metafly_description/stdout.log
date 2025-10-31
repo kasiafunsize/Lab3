@@ -1,0 +1,33 @@
+running egg_info
+creating ../../build/metafly_description/metafly_description.egg-info
+writing ../../build/metafly_description/metafly_description.egg-info/PKG-INFO
+writing dependency_links to ../../build/metafly_description/metafly_description.egg-info/dependency_links.txt
+writing requirements to ../../build/metafly_description/metafly_description.egg-info/requires.txt
+writing top-level names to ../../build/metafly_description/metafly_description.egg-info/top_level.txt
+writing manifest file '../../build/metafly_description/metafly_description.egg-info/SOURCES.txt'
+reading manifest file '../../build/metafly_description/metafly_description.egg-info/SOURCES.txt'
+writing manifest file '../../build/metafly_description/metafly_description.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/build/metafly_description/build
+creating /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/build/metafly_description/build/lib
+creating /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/build/metafly_description/build/lib/metafly_description
+copying metafly_description/__init__.py -> /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/build/metafly_description/build/lib/metafly_description
+running install
+running install_lib
+creating /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/install/lib/python3.10/site-packages/metafly_description
+copying /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/build/metafly_description/build/lib/metafly_description/__init__.py -> /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/install/lib/python3.10/site-packages/metafly_description
+byte-compiling /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/install/lib/python3.10/site-packages/metafly_description/__init__.py to __init__.cpython-310.pyc
+running install_data
+copying resource/metafly_description -> /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/install/share/ament_index/resource_index/packages
+copying package.xml -> /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/install/share/metafly_description
+creating /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/install/share/metafly_description/launch
+copying launch/view_metafly.launch.py -> /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/install/share/metafly_description/launch
+creating /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/install/share/metafly_description/urdf
+copying urdf/materials.xacro -> /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/install/share/metafly_description/urdf
+copying urdf/metafly.urdf.xacro -> /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/install/share/metafly_description/urdf
+copying urdf/metafly_macro.xacro -> /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/install/share/metafly_description/urdf
+running install_egg_info
+Copying ../../build/metafly_description/metafly_description.egg-info to /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/install/lib/python3.10/site-packages/metafly_description-0.0.1-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/min/a/khochwal/ece569-fall2025/Lab3/ws3/build/metafly_description/install.log'

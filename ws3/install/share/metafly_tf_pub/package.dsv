@@ -1,0 +1,9 @@
+source;share/metafly_tf_pub/hook/path.ps1
+source;share/metafly_tf_pub/hook/path.dsv
+source;share/metafly_tf_pub/hook/path.sh
+source;share/metafly_tf_pub/hook/pythonpath.ps1
+source;share/metafly_tf_pub/hook/pythonpath.dsv
+source;share/metafly_tf_pub/hook/pythonpath.sh
+source;share/metafly_tf_pub/hook/pythonscriptspath.ps1
+source;share/metafly_tf_pub/hook/pythonscriptspath.dsv
+source;share/metafly_tf_pub/hook/pythonscriptspath.sh

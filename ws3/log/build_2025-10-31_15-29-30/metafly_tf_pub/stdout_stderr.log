@@ -1,0 +1,37 @@
+running egg_info
+creating ../../build/metafly_tf_pub/metafly_tf_pub.egg-info
+writing ../../build/metafly_tf_pub/metafly_tf_pub.egg-info/PKG-INFO
+writing dependency_links to ../../build/metafly_tf_pub/metafly_tf_pub.egg-info/dependency_links.txt
+writing entry points to ../../build/metafly_tf_pub/metafly_tf_pub.egg-info/entry_points.txt
+writing requirements to ../../build/metafly_tf_pub/metafly_tf_pub.egg-info/requires.txt
+writing top-level names to ../../build/metafly_tf_pub/metafly_tf_pub.egg-info/top_level.txt
+writing manifest file '../../build/metafly_tf_pub/metafly_tf_pub.egg-info/SOURCES.txt'
+reading manifest file '../../build/metafly_tf_pub/metafly_tf_pub.egg-info/SOURCES.txt'
+writing manifest file '../../build/metafly_tf_pub/metafly_tf_pub.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/build/metafly_tf_pub/build
+creating /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/build/metafly_tf_pub/build/lib
+creating /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/build/metafly_tf_pub/build/lib/metafly_tf_pub
+copying metafly_tf_pub/metafly_tf_pub.py -> /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/build/metafly_tf_pub/build/lib/metafly_tf_pub
+copying metafly_tf_pub/__init__.py -> /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/build/metafly_tf_pub/build/lib/metafly_tf_pub
+running install
+running install_lib
+creating /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/install/lib/python3.10/site-packages/metafly_tf_pub
+copying /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/build/metafly_tf_pub/build/lib/metafly_tf_pub/metafly_tf_pub.py -> /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/install/lib/python3.10/site-packages/metafly_tf_pub
+copying /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/build/metafly_tf_pub/build/lib/metafly_tf_pub/__init__.py -> /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/install/lib/python3.10/site-packages/metafly_tf_pub
+byte-compiling /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/install/lib/python3.10/site-packages/metafly_tf_pub/metafly_tf_pub.py to metafly_tf_pub.cpython-310.pyc
+byte-compiling /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/install/lib/python3.10/site-packages/metafly_tf_pub/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/install/share/ament_index
+creating /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/install/share/ament_index/resource_index
+creating /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/install/share/ament_index/resource_index/packages
+copying resource/metafly_tf_pub -> /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/install/share/ament_index/resource_index/packages
+creating /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/install/share/metafly_tf_pub
+copying package.xml -> /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/install/share/metafly_tf_pub
+copying resource/mocap_data.csv -> /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/install/share/metafly_tf_pub
+running install_egg_info
+Copying ../../build/metafly_tf_pub/metafly_tf_pub.egg-info to /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/install/lib/python3.10/site-packages/metafly_tf_pub-0.0.0-py3.10.egg-info
+running install_scripts
+Installing metafly_tf_pub script to /home/min/a/khochwal/ece569-fall2025/Lab3/ws3/install/bin
+writing list of installed files to '/home/min/a/khochwal/ece569-fall2025/Lab3/ws3/build/metafly_tf_pub/install.log'
